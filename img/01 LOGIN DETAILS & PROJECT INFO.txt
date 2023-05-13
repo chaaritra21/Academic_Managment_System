@@ -1,0 +1,14 @@
+**Database Name: attendancemsystem**
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Teacher Login Details**
+
+Email   : teacher01@mail.com
+Password: pass123
+
+**Password for all teachers is the same**
